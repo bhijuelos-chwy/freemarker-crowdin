@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Transactional Email</title>
+    <title>Courriel transactionnel</title>
     <#include "common/html/header.ftl">
 </head>
 <body>
-<h1>Welcome to Our Service</h1>
-<p>We are glad to have you with us.</p>
+<h1>Bienvenue dans notre Service</h1>
+<p>Nous sommes heureux de vous accueillir parmi nous.</p>
 
 <#include "common/html/body.ftl">
 <#include "common/html/footer.ftl">
