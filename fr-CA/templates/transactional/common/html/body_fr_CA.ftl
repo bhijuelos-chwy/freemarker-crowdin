@@ -1,8 +1,8 @@
 <#-- Body template (body.ftl) -->
 <div>
-    <p>This is the body of your transactional email. You can customize this section based on your needs.</p>
-    <p>For example, you can include dynamic data like user's name, transaction details, etc.</p>
+    <p>Ceci est le corps de votre e-mail transactionnel. Vous pouvez personnaliser cette section selon vos besoins.</p>
+    <p>Par exemple, vous pouvez inclure des données dynamiques telles que le nom de l'utilisateur, les détails de la transaction, etc.</p>
     <#-- Example of dynamic data usage -->
     <p>Dear ${userName},</p>
-    <p>Thank you for your recent purchase of ${productName}.</p>
+    <p>Merci pour votre récent achat de ${productName}.</p>
 </div>
